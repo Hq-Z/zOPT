@@ -1,0 +1,2 @@
+# zOPT
+This project contains an open-source implementation of an OPT platform. The 3D-printable components are provided to built your customized sample stage. We offer our open source MATLAB software with an GUI for OPT imaging. We developed a generalized automated workflow including a two-step registration approach for correcting the center of rotation and provide accurate and high-quality 3D reconstruction.

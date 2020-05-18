@@ -3,4 +3,4 @@ This project contains an open-source implementation of an OPT platform. The 3D-p
 
 Here we previde the source code and instructions to built up the zOPT system. For sample data from the system, we provide them here,
 https://sourceforge.net/projects/zopt-tomography-reconstruction.
-This data is a bright field OPT tomography data recorded by our zOPT setup and it can be used to verify the algorithms for zOPT tomography reconstruction.
+This is a bright field OPT tomography data recorded by our zOPT setup and it can be used to verify the algorithms for zOPT tomography reconstruction.
